@@ -1,4 +1,4 @@
-<h1>Login Register Template | Dark Version</h1>
+<h1>Login Register Template </h1>
 Pure CSS and HTML template using Materialize's icons<br>
 <br>
 <br>
